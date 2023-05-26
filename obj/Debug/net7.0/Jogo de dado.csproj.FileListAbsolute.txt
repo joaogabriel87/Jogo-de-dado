@@ -1,0 +1,15 @@
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\bin\Debug\net7.0\Jogo de dado.exe
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\bin\Debug\net7.0\Jogo de dado.deps.json
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\bin\Debug\net7.0\Jogo de dado.runtimeconfig.json
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\bin\Debug\net7.0\Jogo de dado.dll
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\bin\Debug\net7.0\Jogo de dado.pdb
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\obj\Debug\net7.0\Jogo de dado.csproj.AssemblyReference.cache
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\obj\Debug\net7.0\Jogo de dado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\obj\Debug\net7.0\Jogo de dado.AssemblyInfoInputs.cache
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\obj\Debug\net7.0\Jogo de dado.AssemblyInfo.cs
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\obj\Debug\net7.0\Jogo de dado.csproj.CoreCompileInputs.cache
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\obj\Debug\net7.0\Jogo de dado.dll
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\obj\Debug\net7.0\refint\Jogo de dado.dll
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\obj\Debug\net7.0\Jogo de dado.pdb
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\obj\Debug\net7.0\Jogo de dado.genruntimeconfig.cache
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Jogo de dado\obj\Debug\net7.0\ref\Jogo de dado.dll
